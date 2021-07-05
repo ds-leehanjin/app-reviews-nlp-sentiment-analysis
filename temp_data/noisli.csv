@@ -1,8 +1,17 @@
-review,userName,isEdited,title,rating,date,app_name,app_id
-"Edit: After deleting and reinstalling the app, Noisli regained its functionality. I’ve also changed my rating from one to five stars. 
+isEdited,review,date,rating,title,userName,app_name,app_id
+False,"I am impressed how simple this app to use. Not like other applications this is far more simpler to use, you do not need an account to sign up, all you need is to pay for the app which is not  too expensive. I’m not big fan of subscriptions because other developers is making others pay per month. Why not per year? 
+People has to continue working to make money. 
 
-Since updating my iOS, the app no longer functions as others have said. I enjoyed  the app on an almost nightly basis, in order to help me fall asleep, for 5 years. I hope there’s an update soon. If there’s an update, I’ll change my rating to reflect the app’s current functionality.",StephBRogers,False,App crashes,5,2021-01-02 21:27:50,noisli,862773459
-"It sure does a good job of mixing rain and thunder and has nice lights but the whole reason i got the app was so i could relax, and calm my mind, read a book, listen to a podcast etc.
+Also as for your extension, I was kind of feeling disappointed because you’re doing subscriptions too, as long you are not demanding for money. For the rational reason I think your doing this to keep your applications from having any problems, especially from us customers using your app. 
+
+As customer of these applications, instead of pressuring the developers to push themselves to work hard. Work smart than hard because it will be difficult to tackle onto difficult tasks, although I suggest breaking down the difficult tasks into steps to complete a harder task to improve this application. 
+
+One more thing before I go. Do you mind adding an app blocker to keep myself and others from being distracted? Since social media, and the internet is source of my distractions I’m mostly on my iPad than my laptop. I think it would be smart if you add an app blocker, since I already paid for this when I got the app. Could you add the app blocker for people who already paid for the app?",2020-02-27 17:34:27,4,Amazing app yet this app needs app blocker,VictoriaSilvis,noisli,862773459
+False,"Edit: After deleting and reinstalling the app, Noisli regained its functionality. I’ve also changed my rating from one to five stars. 
+
+Since updating my iOS, the app no longer functions as others have said. I enjoyed  the app on an almost nightly basis, in order to help me fall asleep, for 5 years. I hope there’s an update soon. If there’s an update, I’ll change my rating to reflect the app’s current functionality.",2021-01-02 21:27:50,5,App crashes,StephBRogers,noisli,862773459
+False,The app is easy to use. The sounds are great and definitely relaxing. The background changes color on its own to pale colors meanwhile the text is white. This makes it very hard to see. The app uses very thin fonts that don’t adhere to Apple accessibility standards so the text is hard to read. I would prefer that we are able to select a static background color instead of it changing all the time. Pale mint color on white text basically makes the text disappear.,2020-02-05 17:58:19,3,Needs improvement,youjustme73,noisli,862773459
+False,"It sure does a good job of mixing rain and thunder and has nice lights but the whole reason i got the app was so i could relax, and calm my mind, read a book, listen to a podcast etc.
 
 But i cannot find where it allows you to DO anything…  i feel like a bait and switch victim.
 
@@ -16,7 +25,22 @@ Even my Task Manager allows background sound mixing and its a free task manager 
 
 The app of the day is like Noisli but with better sounds and … it allows you to play it while listening to an audiobook or podcast.
 
-Bait and Switch.",DEMON on GOD,False,A little disappointed,2,2021-05-06 08:25:37,noisli,862773459
-"The app does what it says, but the user interface is not adjusted for the big screen of my iPhone 12 Pro Max and it looks like if it’s running on a smaller screen.",Karsulaite,False,Please adjust app size for iPhone 12 Pro Max,3,2021-06-28 23:05:05,noisli,862773459
-"App is no longer functional, will not open at all.",Tay 77,False,doesn’t work,1,2021-02-17 06:26:28,noisli,862773459
-What a bummer. This app just crashes on launch every time.,garbagecollection,False,App crashes on launch every time,1,2021-04-14 01:14:34,noisli,862773459
+Bait and Switch.",2021-05-06 08:25:37,2,A little disappointed,DEMON on GOD,noisli,862773459
+False,"Love this app! I had used the chrome extension and liked that but think it is worth the small fee to have this available when I’m not connected to WiFi and have chrome open. I do wish it had a shortcut to play on external Bluetooth speakers, like google home/Sonos/etc.",2020-05-08 15:53:13,4,"Great for focus, no shortcut to play on secondary devices",becca-g-28,noisli,862773459
+False,"Had this app A few years ago and somehow lost it, tried multiple other apps in that time, but nothing else really compared. Re-downloaded, and still loving it! Only thing that helps me sleep, and i love the save custom sounds feature.",2020-02-10 17:07:48,5,"great, easy app",A stylish girl,noisli,862773459
+False,"App hasn’t been updated in three years and now it’s crashing on launch 100% of the time on my iPhone XS since upgrading to iOS 14.2. I don’t expect it to be fixed. 
+
+Before that, app worked just fine. I could hear the seams in the loops now and then, but loops were long enough that it wasn’t a huge issue. The white/pink/blue noise worked well to help with my tinnitus.",2020-11-09 01:33:29,2,Crashes with iOS 14.2,Kevin&Jenn,noisli,862773459
+False,The worst part about this app is that it does not resume after anything else happens on my iPhone. Apple Music always does but this does not. It’s super annoying to have to go back into this app and restart over and over. Developers need to change this. Otherwise the app is great.,2020-02-25 13:19:06,3,Not consistent,didaskala,noisli,862773459
+False,"I find this app to have a functional simplicity that’s refreshing. The sound is clear and realistic, to me, and I hear neither a break nor jump in each sound loop cycle.",2020-02-09 00:25:10,5,Surpassed my expectations,lapp-boi,noisli,862773459
+False,"I love this app. It’s perfect for when I need to focus or relax by blocking things out. But I am curious... sometimes I feel like I hear very, very, very faint string music behind the sounds. Is that there? Am I hearing things?",2020-06-22 20:05:28,5,Great app! But I’m curious.,bjdoureaux,noisli,862773459
+False,"Didn’t see the big deal.  There are plenty of free apps out there that offer sounds.  I paid for the app and was given a few sounds.  However, you have to subscribe to get features and full accessibility.  Not worth it.  Regret paying for the app.",2020-03-03 15:17:36,2,Free apps that do the same thing,ybrick,noisli,862773459
+False,"I like the sounds this includes, but the app needs some updates. Being able to start/stop them via the button on my headphones would be great.",2020-06-25 14:25:38,3,Needs an update,Hess_Joel,noisli,862773459
+False,"The app does what it says, but the user interface is not adjusted for the big screen of my iPhone 12 Pro Max and it looks like if it’s running on a smaller screen.",2021-06-28 23:05:05,3,Please adjust app size for iPhone 12 Pro Max,Karsulaite,noisli,862773459
+False,App is nice but I should have saved the two dollars and instead used the desktop web version which offers additional features and is entirely free.,2020-09-14 18:10:06,3,Good but shoulda saved the $2,VicannSpiderman,noisli,862773459
+False,"I love this app. Been using Noisli for years, it really helps me focus on work.",2020-08-04 20:36:48,5,Excellent,mocasalter,noisli,862773459
+False,"After updating to iOS 14.2, the app immediately crashes within a second of opening each time. Please fix and push an update, I rely on this app for my sanity so much! 💙",2020-11-09 19:32:12,1,Please fix iOS 14.2 bug/crash!,hthroso,noisli,862773459
+False,Being able to cast to smart devices would be nice.,2020-01-08 06:35:37,4,Casting/Streaming,Derrick_NM,noisli,862773459
+False,"Simple functional app. Wish it had airplay support, though...",2020-03-30 00:19:58,3,Basic but neat,jlkinsel,noisli,862773459
+False,"App is no longer functional, will not open at all.",2021-02-17 06:26:28,1,doesn’t work,Tay 77,noisli,862773459
+False,What a bummer. This app just crashes on launch every time.,2021-04-14 01:14:34,1,App crashes on launch every time,garbagecollection,noisli,862773459
