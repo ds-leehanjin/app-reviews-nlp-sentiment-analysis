@@ -123,3 +123,5 @@ Some limitations and ideas for further analysis include:
 >- We currently do not have any pricing data of apps. Further research and analysis could be done regarding pricing of subscription and app costs to determine what the best pricing scheme would be.
 >- Our data is currently limited to the reviews and ratings on the Apple App Store. Collecting and analyzing app reviews from the Google Play Store to examine how they compare would help us get a well-rounded idea of the sentiments of all mobile app users, as opposed to just Apple users.
 >- Possible implementation of Latent Dirichlet Allocation topic modeling to extract deeper insights on what topics could be found in negative vs positive reviews.
+
+For the full in-depth analysis, please refer to my [Jupyter Notebook](https://github.com/ds-leehanjin/dsc-capstone-project/blob/master/notebook.ipynb) and [presentation](https://github.com/ds-leehanjin/dsc-capstone-project/blob/master/presentation.pdf) or feel free to contact me at [lee.hanjin@gmail.com](mailto:lee.hanjin@gmail.com) with any questions.
