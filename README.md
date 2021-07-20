@@ -1,4 +1,5 @@
-# Sentiment Analysis of iOS App Store Reviews with Natural Language Processing 
+# Competing in the Mental Wellness iOS App Market (Natural Language Sentiment Analysis)
+
 
 ## INTRODUCTION
 
