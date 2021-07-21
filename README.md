@@ -21,13 +21,16 @@ Questions to consider:
 * How can we use this information to develop a strategy for building a new mental health app that can compete with apps that have already seen success?
 ***
 
-The full in-depth analysis can be found [here](https://github.com/ds-leehanjin/app-reviews-nlp-sentiment-analysis/blob/master/notebook.ipynb).
+The full in-depth analysis can be found at the following links:
+- [Data Collection Notebook](https://github.com/ds-leehanjin/app-reviews-nlp-sentiment-analysis/blob/master/data-collection.ipynb)
+- [Main Analysis Notebook](https://github.com/ds-leehanjin/app-reviews-nlp-sentiment-analysis/blob/master/notebook.ipynb) 
+- [Presentation PDF](https://github.com/ds-leehanjin/app-reviews-nlp-sentiment-analysis/blob/master/presentation.pdf)
 
 
 
 ## Data
 
-Although there is a category for "Health and Fitness" apps, there is no subcategory for mental health apps, and so a list of 31 top mental health apps was hand-curated from a collection of blog posts. The data used in this analysis was scraped using the [itunes_app_scraper](https://pypi.org/project/itunes-app-scraper-dmi/) and [app_store_scraper](https://pypi.org/project/app-store-scraper/) libraries and includes text reviews for this list of mental-health apps paired with ratings out of 5. The process for scraping the data can be found [here]( https://github.com/ds-leehanjin/app-reviews-nlp-sentiment-analysis/blob/master/data-collection.ipynb).
+Although there is a category for "Health and Fitness" apps, there is no subcategory for mental health apps, and so a list of 31 top mental health apps was hand-curated from a collection of blog posts. The data used in this analysis was scraped using the [itunes_app_scraper](https://pypi.org/project/itunes-app-scraper-dmi/) and [app_store_scraper](https://pypi.org/project/app-store-scraper/) libraries and includes text reviews for this list of mental-health apps paired with ratings out of 5.
 
 A total of 44,698 reviews are considered for this sentiment analysis as independent variables, and the target variables will be the corresponding sentiments that are engineered according to the ratings given by reviewers.
 
